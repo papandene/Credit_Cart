@@ -1,7 +1,9 @@
 # Credit_Cart
 
 ### Develop a prediction model to know whether or not the person will have a credit agreement or not.
+
 In this model we will have a dataset from a bank in the USA.
+
 We will proceed as follows:
 
 1- Treatment for the Categorical variables we will replace the missing values by the most repeating values.
@@ -16,7 +18,9 @@ We will proceed as follows:
 ## Choice of model :
 
 1- Logistic regression
+
 2- KNN
+
 3- DecisionTree
 
 ## Model evaluation 
